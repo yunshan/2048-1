@@ -5,7 +5,7 @@ This is a derivative and the iOS version of the game 2048. In the very unlikely 
 Made just for fun! You can test it on the [App Store](https://itunes.apple.com/us/app/2048-and-more!/id848859070?ls=1&mt=8).
 
 <p align="center">
-  <img src="http://a4.mzstatic.com/us/r30/Purple4/v4/a4/f8/af/a4f8af1d-3878-0817-859d-de76bae169c7/screen568x568.jpeg" alt="Screenshot"/>
+  <img src="http://a4.test.com/us/r30/Purple4/v4/a4/f8/af/a4f8af1d-3878-0817-859d-de76bae169c7/screen568x568.jpeg" alt="Screenshot"/>
 </p>
 
 ## AI
